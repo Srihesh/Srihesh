@@ -3,11 +3,11 @@
 
 # 👋 Hi, I'm Kothapalli Srihesh
 
-_IoT Enthusiast • Machine Learning Practitioner • Full-Stack Developer • PDF Toolkit Maker_
+_ • Machine Learning Practitioner • Full-Stack Developer • IoT Enthusiast_
 
 [![GitHub Followers](https://img.shields.io/github/followers/Srihesh?label=Followers&style=social)](https://github.com/Srihesh)
 [![Profile Views](https://komarev.com/ghpvc/?username=Srihesh&style=flat-square)](https://github.com/Srihesh)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Srihesh?style=social)](https://twitter.com/Srihesh)
+
 
 ---
 
