@@ -8,7 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/Srihesh"><img src="https://img.shields.io/github/followers/Srihesh?label=Followers&style=social" /></a>
-  <a href="https://twitter.com/Srihesh"><img src="https://img.shields.io/twitter/follow/Srihesh?style=social" /></a>
   <img src="https://komarev.com/ghpvc/?username=Srihesh&style=flat-square" />
 </div>
 
