@@ -1,86 +1,97 @@
-<!-- Banner Image -->
-<img src="https://user-images.githubusercontent.com/xxxxxx/banner.png" alt="Srihesh Banner" width="100%" />
+<!-- Banner (Add your own or use a site like https://readme-typing-svg.herokuapp.com/) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Srihesh!;IoT+Enthusiast;AI+Developer;Open+Source+Contributor&center=true&width=800&height=90" />
 
-# 👋 Hi, I'm Kothapalli Srihesh
+<h1 align="center">👋 Hi, I'm Kothapalli Srihesh</h1>
+<p align="center">
+• Machine Learning Practitioner • Full-Stack Developer • IoT Enthusiast 
+</p>
 
-_ • Machine Learning Practitioner • Full-Stack Developer • IoT Enthusiast_
-
-[![GitHub Followers](https://img.shields.io/github/followers/Srihesh?label=Followers&style=social)](https://github.com/Srihesh)
-[![Profile Views](https://komarev.com/ghpvc/?username=Srihesh&style=flat-square)](https://github.com/Srihesh)
-
+<div align="center">
+  <a href="https://github.com/Srihesh"><img src="https://img.shields.io/github/followers/Srihesh?label=Followers&style=social" /></a>
+  <a href="https://twitter.com/Srihesh"><img src="https://img.shields.io/twitter/follow/Srihesh?style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Srihesh&style=flat-square" />
+</div>
 
 ---
 
 ## 💡 About Me
 
-- ✨ Passionate about building IoT and AI solutions for agriculture & smart environments.
-- 🧠 Hackathon enthusiast, regular contributor to open-source and cross-disciplinary collaborations.
-- ✨ Focus on making educational content fun and presentations engaging.
-- 🚀 Always open to collaboration and new ideas!
+- ✨ Building IoT and AI solutions for smart agriculture and automation.
+- 🧠 Frequent hackathon participant, open-source & cross-disciplinary collaborator.
+- 🎓 Creating engaging educational content and presentations.
+- 🌐 Focused on code organization, efficient teamwork, and knowledge sharing.
 
 ---
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=mysql)
-![ESP32](https://img.shields.io/badge/-ESP32-black?logo=espressif)
-![Arduino](https://img.shields.io/badge/-Arduino-blue?logo=arduino)
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/-SQL-lightgrey?logo=mysql" />
+  <img src="https://img.shields.io/badge/-ESP32-black?logo=espressif" />
+  <img src="https://img.shields.io/badge/-Arduino-blue?logo=arduino" />
+  <img src="https://img.shields.io/badge/-Docker-blue?logo=docker" />
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github" />
+</p>
 
 ---
 
 <details>
-<summary><b>📂 Featured Projects</b></summary>
-
-- 🧠 **Glitchnetcult**: Extract and analyze PDF outlines, supports Docker/local runs.
-- ❤️ **Heart-Disease_Prediction**: Predict heart disease using machine learning.
-- 🕹️ **Semicolon**: Interactive web app to learn/test regular expressions (HTML, CSS, JS).
-- 🐦 **X-API-wrapper**: Python wrapper for X (Twitter) API via Tweepy.
-- 🖼️ **PNG-Formatter**: Convert JPG to PNG images.
-- 🔒 **Secure-Password-Validator**: Password strength checker and validator.
-
+  <summary><b>📂 Featured Projects (click to expand)</b></summary>
+  
+  - 🧠 <b>Glitchnetcult</b>: PDF analysis toolkit, outlines extraction, Docker/local workflows.
+  - ❤️ <b>Heart-Disease_Prediction</b>: ML for health risk forecasting.
+  - 🕹️ <b>Semicolon</b>: Cyberpunk-themed RegEx interactive app (HTML/CSS/JS).
+  - 🐦 <b>X-API-wrapper</b>: Python Tweepy for X API.
+  - 🖼️ <b>PNG-Formatter</b>: Simple JPG-to-PNG utility.
+  - 🔒 <b>Secure-Password-Validator</b>: Password strength checker.
+  
 </details>
 
 ---
 
-<details>
-<summary><b>✨ Hackathon & Community</b></summary>
-
-- 🏆 Active participant: Adobe-India-Hackathon25 and other tech events.
-- 🏗️ Collaborative team projects, focused on code organization and efficient development.
-- 🎓 Open to knowledge sharing, mentorship, and code reviews.
-
-</details>
+## 🏆 Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srihesh&theme=nord&row=1&column=6" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Total Contributions & Stats
 
-![Srihesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Srihesh&theme=radical" />
+</p>
 
 ---
 
-## 🌱 Learning & Growth
+## ✨ Activity Highlights
 
-- Smart agriculture, IoT, and automation.
-- Document processing and AI-powered text extraction.
-- Advanced web technologies (HTML, CSS, JavaScript).
-- Data science and machine learning.
+- 🏆 Competing in hackathons including Adobe-India-Hackathon25.
+- 🤝 Collaborative projects focused on IoT, dev tools, document processing.
+- 🎯 Constantly improving AI, ML, and code organization skills.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced smart agriculture and automation systems (IoT, AI).
+- Document processing, text extraction, heading detection in AI.
+- Web development: HTML, CSS, JavaScript, and Python backend.
+- Efficient teamwork, GitHub project management & Docker workflows.
 
 ---
 
 ## 📫 Connect with Me
 
-- 💬 [Open an Issue](https://github.com/Srihesh/issues)
-- 🏆 Find me at hackathons and on [GitHub](https://github.com/Srihesh)
+- 💬 [Open an Issue](https://github.com/Srihesh/issues) to collaborate or discuss a project
+- 🏆 Reach out at hackathons and on [GitHub](https://github.com/Srihesh)
 
 ---
 
-> _Thanks for visiting my profile! Have fun exploring my repositories — let’s collaborate, build, and innovate together!_
-
+<p align="center"><i>Thanks for visiting my profile! Have fun exploring my repos — let's create something extraordinary together!</i></p>
