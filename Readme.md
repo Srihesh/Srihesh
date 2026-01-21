@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Hi, I'm Kothapalli Srihesh</h1>
 <p align="center">
-• Machine Learning Practitioner • Full-Stack Developer • IoT Enthusiast 
+• AIML Practitioner • Full-Stack Developer 
 </p>
 
 <div align="center">
@@ -13,16 +13,16 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
-- ✨ Building IoT and AI solutions for smart agriculture and automation.
-- 🧠 Frequent hackathon participant, open-source & cross-disciplinary collaborator.
-- 🎓 Creating engaging educational content and presentations.
-- 🌐 Focused on code organization, efficient teamwork, and knowledge sharing.
+- Building Stack and AI solutions for real-world problems.
+- Frequent hackathon participant, open-source & cross-disciplinary collaborator.
+- Creating engaging educational content and presentations.
+- Focused on code organization, efficient teamwork, and knowledge sharing.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue?logo=python" />
@@ -41,25 +41,25 @@
 <details>
   <summary><b>📂 Featured Projects (click to expand)</b></summary>
   
-  - 🧠 <b>Glitchnetcult</b>: PDF analysis toolkit, outlines extraction, Docker/local workflows.
-  - ❤️ <b>Heart-Disease_Prediction</b>: ML for health risk forecasting.
-  - 🕹️ <b>Semicolon</b>: Cyberpunk-themed RegEx interactive app (HTML/CSS/JS).
-  - 🐦 <b>X-API-wrapper</b>: Python Tweepy for X API.
-  - 🖼️ <b>PNG-Formatter</b>: Simple JPG-to-PNG utility.
-  - 🔒 <b>Secure-Password-Validator</b>: Password strength checker.
+  - <b>Glitchnetcult</b>: PDF analysis toolkit, outlines extraction, Docker/local workflows.
+  - <b>Heart-Disease_Prediction</b>: ML for health risk forecasting.
+  - <b>Semicolon</b>: Cyberpunk-themed RegEx interactive app (HTML/CSS/JS).
+  - <b>X-API-wrapper</b>: Python Tweepy for X API.
+  - <b>PNG-Formatter</b>: Simple JPG-to-PNG utility.
+  - <b>Secure-Password-Validator</b>: Password strength checker.
   
 </details>
 
 ---
 
-## 🏆 Achievements & Badges
+## Achievements & Badges
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Srihesh&theme=nord&row=1&column=6" />
 </p>
 
 ---
 
-## 📈 Total Contributions & Stats
+## Total Contributions & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&theme=radical" />
@@ -69,15 +69,15 @@
 
 ---
 
-## ✨ Activity Highlights
+## Activity Highlights
 
-- 🏆 Competing in hackathons including Adobe-India-Hackathon25.
-- 🤝 Collaborative projects focused on IoT, dev tools, document processing.
-- 🎯 Constantly improving AI, ML, and code organization skills.
+- Competing in hackathons including Adobe-India-Hackathon25.
+- Collaborative projects focused on IoT, dev tools, document processing.
+- Constantly improving AI, ML, and code organization skills.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced smart agriculture and automation systems (IoT, AI).
 - Document processing, text extraction, heading detection in AI.
@@ -86,10 +86,10 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 💬 [Open an Issue](https://github.com/Srihesh/issues) to collaborate or discuss a project
-- 🏆 Reach out at hackathons and on [GitHub](https://github.com/Srihesh)
+- [Open an Issue](https://github.com/Srihesh/issues) to collaborate or discuss a project
+- Reach out at hackathons and on [GitHub](https://github.com/Srihesh)
 
 ---
 
