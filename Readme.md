@@ -2,9 +2,9 @@
 
 <!-- THE NEURAL VORTEX: ADAPTIVE GENERATIVE ART -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNDAwIj4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzA4MDgwOCIvPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMC41IiBzdHJva2Utb3BhY2l0eT0iMC40Ij4KICAgIDxwYXRoIGQ9Ik00NTAsMjAwIEM1NTAsMTAwIDcwMCwxNTAgODAwLDIwMCBTOTAwLDMwMCA4NTAsMzUwIiBzdHJva2U9IiNDOEE4NEIiLz4KICAgIDxwYXRoIGQ9Ik00NTAsMjAwIEMzNTAsMzAwIDIwMCwyNTAgMTAwLDIwMCBTMCwxMDAgNTAsNTAiIHN0cm9rZT0iIzhBODRBQiIvPgogICAgPHBhdGggZD0iTTQ1MCwyMDAgQzUwMCw1MCA3MDAsNTAgODAwLDEwMCBTOTAwLDIwMCA3MDAsMzAwIiBzdHJva2U9IiNDOEE4NEIiLz4KICAgIDxwYXRoIGQ9Ik00NTAsMjAwIEM0MDAsMzUwIDIwMCwzNTAgMTAwLDMwMCBTMCwyMDAgMjAwLDEwMCIgc3Ryb2tlPSIjODg4Ii8+CiAgICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIyMDAiIHI9IjMiIGZpbGw9IiNDOEE4NEIiLz4KICA8L2c+CiAgPHRleHQgeD0iNTAlIiB5PSI1MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmMGVkZTgiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI3MCIgZm9udC13ZWlnaHQ9ImJvbGQiIGxldHRlci1zcGFjaW5nPSItMyI+Sy4gU3JpaGVzaCBLb3RoYXBhbGxpPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjQzhBODRCIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBsZXR0ZXItc3BhY2luZz0iOCI+U1lTVEVNUyBBUkNISVRFQ1QgKyBHUkFQSCBJTlRFTExJR0VOQ0U8L3RleHQ+Cjwvc3ZnPg==">
-  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNDAwIj4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI2ZmZmZmZiIvPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMC43IiBzdHJva2Utb3BhY2l0eT0iMC41Ij4KICAgIDxwYXRoIGQ9Ik00NTAsMjAwIEM1NTAsMTAwIDcwMCwxNTAgODAwLDIwMCBTOTAwLDMwMCA4NTAsMzUwIiBzdHJva2U9IiNBQjg4MjMiLz4KICAgIDxwYXRoIGQ9Ik00NTAsMjAwIEMzNTAsMzAwIDIwMCwyNTAgMTAwLDIwMCBTMCwxMDAgNTAsNTAiIHN0cm9rZT0iIzQ0NCIvPgogICAgPHBhdGggZD0iTTQ1MCwyMDAgQzUwMCw1MCA3MDAsNTAgODAwLDEwMCBTOTAwLDIwMCA3MDAsMzAwIiBzdHJva2U9IiNBQjg4MjMiLz4KICAgIDxwYXRoIGQ9Ik00NTAsMjAwIEM0MDAsMzUwIDIwMCwzNTAgMTAwLDMwMCBTMCwyMDAgMjAwLDEwMCIgc3Ryb2tlPSIjNjY2Ii8+CiAgICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIyMDAiIHI9IjMiIGZpbGw9IiNBQjg4MjMiLz4KICA8L2c+CiAgPHRleHQgeD0iNTAlIiB5PSI1MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMxYTFhMWEiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI3MCIgZm9udC13ZWlnaHQ9ImJvbGQiIGxldHRlci1zcGFjaW5nPSItMyI+Sy4gU3JpaGVzaCBLb3RoYXBhbGxpPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjQUI4ODIzIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBsZXR0ZXItc3BhY2luZz0iOCI+U1lTVEVNUyBBUkNISVRFQ1QgKyBHUkFQSCBJTlRFTExJR0VOQ0U8L3RleHQ+Cjwvc3ZnPg==">
-  <img src="https://via.placeholder.com/900x400?text=K.+Srihesh+Kothapalli" alt="K. Srihesh Kothapalli">
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 300'%3E%3Crect width='900' height='300' fill='%230a0a0a'/%3E%3Cg fill='none' stroke='%23C8A84B' stroke-width='0.5' stroke-opacity='0.4'%3E%3Cpath d='M450,150 Q600,0 800,150 T450,280 T100,150 T450,20'/%3E%3Cpath d='M450,150 Q300,300 100,150 T450,20 T800,150 T450,280' stroke='%23888'/%3E%3Ccircle cx='450' cy='150' r='2' fill='%23C8A84B'/%3E%3C/g%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' fill='%23f0ede8' font-family='Georgia, serif' font-size='60' font-weight='bold' letter-spacing='-2'%3EK. Srihesh Kothapalli%3C/text%3E%3Ctext x='50%25' y='65%25' text-anchor='middle' fill='%23C8A84B' font-family='monospace' font-size='10' letter-spacing='8'%3ESYSTEMS ARCHITECT + GRAPH INTELLIGENCE%3C/text%3E%3C/svg%3E">
+  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 300'%3E%3Crect width='900' height='300' fill='%23ffffff'/%3E%3Cg fill='none' stroke='%23AB8823' stroke-width='0.6' stroke-opacity='0.5'%3E%3Cpath d='M450,150 Q600,0 800,150 T450,280 T100,150 T450,20'/%3E%3Cpath d='M450,150 Q300,300 100,150 T450,20 T800,150 T450,280' stroke='%23444'/%3E%3Ccircle cx='450' cy='150' r='2' fill='%23AB8823'/%3E%3C/g%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' fill='%231a1a1a' font-family='Georgia, serif' font-size='60' font-weight='bold' letter-spacing='-2'%3EK. Srihesh Kothapalli%3C/text%3E%3Ctext x='50%25' y='65%25' text-anchor='middle' fill='%23AB8823' font-family='monospace' font-size='10' letter-spacing='8'%3ESYSTEMS ARCHITECT + GRAPH INTELLIGENCE%3C/text%3E%3C/svg%3E">
+  <img src="https://via.placeholder.com/900x300?text=K.+Srihesh+Kothapalli" alt="K. Srihesh Kothapalli">
 </picture>
 
 <br />
@@ -56,17 +56,17 @@
 <table width="100%" border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Srihesh-Kothapalli&show_icons=true&hide_border=true&title_color=C8A84B&text_color=888&icon_color=C8A84B&bg_color=00000000&hide_rank=true" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&hide_border=true&title_color=C8A84B&text_color=888&icon_color=C8A84B&bg_color=00000000&hide_rank=true" width="400" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh-Kothapalli&layout=compact&hide_border=true&title_color=C8A84B&text_color=888&bg_color=00000000" width="350" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh&layout=compact&hide_border=true&title_color=C8A84B&text_color=888&bg_color=00000000" width="350" />
     </td>
   </tr>
 </table>
 
 <br />
 
-[L I N K E D I N](https://linkedin.com/in/srihesh-kothapalli) &nbsp; · &nbsp; [G I T H U B](https://github.com/Srihesh-Kothapalli) &nbsp; · &nbsp; [M A I L](mailto:sriheshk06@gmail.com)
+[L I N K E D I N](https://linkedin.com/in/srihesh-kothapalli) &nbsp; · &nbsp; [G I T H U B](https://github.com/Srihesh) &nbsp; · &nbsp; [M A I L](mailto:sriheshk06@gmail.com)
 
 <br />
 
