@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900">
+
+  <rect width="900" height="240" fill="#F5F1EB"/>
+
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#8B6914" stroke-width="1" opacity="0.5"/>
+
+  <rect x="0"   y="0" width="300" height="240" fill="#EDE9E0"/>
+  <rect x="300" y="0" width="300" height="240" fill="#F5F1EB"/>
+  <rect x="600" y="0" width="300" height="240" fill="#EDE9E0"/>
+
+  <line x1="300" y1="0" x2="300" y2="240" stroke="#8B6914" stroke-width="0.8" opacity="0.35"/>
+  <line x1="600" y1="0" x2="600" y2="240" stroke="#8B6914" stroke-width="0.8" opacity="0.35"/>
+
+  <rect x="36" y="32" width="28" height="1.5" fill="#8B6914" opacity="0.9"/>
+  <text x="36" y="24" font-family="'Courier New',monospace" font-size="8.5" fill="#8B6914" letter-spacing="3" opacity="0.9">RESEARCH</text>
+  <text x="36" y="68"  font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Graph neural networks</text>
+  <text x="36" y="90"  font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Sequence modeling</text>
+  <text x="36" y="112" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Temporal analysis</text>
+  <text x="36" y="134" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Anomaly detection</text>
+  <text x="36" y="156" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Sub-quadratic ops</text>
+  <circle cx="270" cy="200" r="18" fill="none" stroke="#8B6914" stroke-width="0.4" opacity="0.18"/>
+  <circle cx="270" cy="200" r="10" fill="none" stroke="#8B6914" stroke-width="0.3" opacity="0.12"/>
+  <circle cx="270" cy="200" r="3"  fill="#8B6914" opacity="0.2"/>
+
+  <rect x="336" y="32" width="28" height="1.5" fill="#8B6914" opacity="0.9"/>
+  <text x="336" y="24" font-family="'Courier New',monospace" font-size="8.5" fill="#8B6914" letter-spacing="3" opacity="0.9">ENGINEERING</text>
+  <text x="336" y="68"  font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Full-stack MERN</text>
+  <text x="336" y="90"  font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">REST · RBAC · Auth</text>
+  <text x="336" y="112" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Data pipelines</text>
+  <text x="336" y="134" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Containerization</text>
+  <text x="336" y="156" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">CI/CD automation</text>
+  <circle cx="570" cy="200" r="18" fill="none" stroke="#8B6914" stroke-width="0.4" opacity="0.18"/>
+  <circle cx="570" cy="200" r="10" fill="none" stroke="#8B6914" stroke-width="0.3" opacity="0.12"/>
+  <circle cx="570" cy="200" r="3"  fill="#8B6914" opacity="0.2"/>
+
+  <rect x="636" y="32" width="28" height="1.5" fill="#8B6914" opacity="0.9"/>
+  <text x="636" y="24" font-family="'Courier New',monospace" font-size="8.5" fill="#8B6914" letter-spacing="3" opacity="0.9">INTELLIGENCE</text>
+  <text x="636" y="68"  font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">NLP · Embeddings</text>
+  <text x="636" y="90"  font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Semantic retrieval</text>
+  <text x="636" y="112" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Vector databases</text>
+  <text x="636" y="134" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">RAG architecture</text>
+  <text x="636" y="156" font-family="Georgia,serif" font-size="13" fill="#1a1a2e" opacity="0.6" letter-spacing="0.3">Algorithmic design</text>
+  <circle cx="870" cy="200" r="18" fill="none" stroke="#8B6914" stroke-width="0.4" opacity="0.18"/>
+  <circle cx="870" cy="200" r="10" fill="none" stroke="#8B6914" stroke-width="0.3" opacity="0.12"/>
+  <circle cx="870" cy="200" r="3"  fill="#8B6914" opacity="0.2"/>
+
+  <line x1="0" y1="239" x2="900" y2="239" stroke="#1a1a2e" stroke-width="0.4" opacity="0.1"/>
+
+</svg>
