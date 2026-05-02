@@ -1,96 +1,24 @@
-<!-- Banner (Add your own or use a site like https://readme-typing-svg.herokuapp.com/) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Srihesh!;AI+Developer;Open+Source+Contributor&center=true&width=800&height=90" />
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="280" fill="#0a0a0a"/>
 
-<h1 align="center">👋 Hi, I'm Kothapalli Srihesh</h1>
-<p align="center">
-• AIML Practitioner • Full-Stack Developer 
-</p>
+  <line x1="0" y1="52" x2="900" y2="52" stroke="#222" stroke-width="0.5"/>
+  <line x1="0" y1="228" x2="900" y2="228" stroke="#222" stroke-width="0.5"/>
 
-<div align="center">
-  <a href="https://github.com/Srihesh"><img src="https://img.shields.io/github/followers/Srihesh?label=Followers&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Srihesh&style=flat-square" />
-</div>
+  <text x="36" y="38" font-family="'Georgia', serif" font-size="10" fill="#555" letter-spacing="4" font-weight="400">K. SRIHESH</text>
+  <text x="900" y="38" font-family="'Georgia', serif" font-size="10" fill="#555" letter-spacing="4" font-weight="400" text-anchor="end">IIIT SRI CITY · CS · 2023–27</text>
 
----
+  <text x="36" y="162" font-family="'Georgia', serif" font-size="88" fill="#f0ede8" font-weight="400" letter-spacing="-3">Srihesh</text>
 
-## About Me
+  <text x="36" y="216" font-family="'Courier New', monospace" font-size="11" fill="#444" letter-spacing="2">GRAPH INTELLIGENCE</text>
+  <text x="310" y="216" font-family="'Georgia', serif" font-size="11" fill="#333" letter-spacing="0">·</text>
+  <text x="326" y="216" font-family="'Courier New', monospace" font-size="11" fill="#444" letter-spacing="2">SEQUENCE MODELS</text>
+  <text x="574" y="216" font-family="'Georgia', serif" font-size="11" fill="#333" letter-spacing="0">·</text>
+  <text x="590" y="216" font-family="'Courier New', monospace" font-size="11" fill="#444" letter-spacing="2">SYSTEMS</text>
 
-- Building Stack and AI solutions for real-world problems.
-- Frequent hackathon participant, open-source & cross-disciplinary collaborator.
-- Creating engaging educational content and presentations.
-- Focused on code organization, efficient teamwork, and knowledge sharing.
+  <text x="864" y="248" font-family="'Georgia', serif" font-size="9" fill="#333" letter-spacing="3" text-anchor="end">ELURU, AP</text>
+  <text x="36" y="248" font-family="'Georgia', serif" font-size="9" fill="#333" letter-spacing="3">sriheshk06@gmail.com</text>
 
----
-
-## Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/-SQL-lightgrey?logo=mysql" />
-  <img src="https://img.shields.io/badge/-ESP32-black?logo=espressif" />
-  <img src="https://img.shields.io/badge/-Arduino-blue?logo=arduino" />
-  <img src="https://img.shields.io/badge/-Docker-blue?logo=docker" />
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github" />
-</p>
-
----
-
-<details>
-  <summary><b>📂 Featured Projects (click to expand)</b></summary>
-  
-  - <b>Glitchnetcult</b>: PDF analysis toolkit, outlines extraction, Docker/local workflows.
-  - <b>Heart-Disease_Prediction</b>: ML for health risk forecasting.
-  - <b>Semicolon</b>: Cyberpunk-themed RegEx interactive app (HTML/CSS/JS).
-  - <b>X-API-wrapper</b>: Python Tweepy for X API.
-  - <b>PNG-Formatter</b>: Simple JPG-to-PNG utility.
-  - <b>Secure-Password-Validator</b>: Password strength checker.
-  
-</details>
-
----
-
-## Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srihesh&theme=nord&row=1&column=6" />
-</p>
-
----
-
-## Total Contributions & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=Srihesh&theme=radical" />
-</p>
-
----
-
-## Activity Highlights
-
-- Competing in hackathons including Adobe-India-Hackathon25.
-- Collaborative projects focused on IoT, dev tools, document processing.
-- Constantly improving AI, ML, and code organization skills.
-
----
-
-## Currently Learning
-
-- Advanced smart agriculture and automation systems (IoT, AI).
-- Document processing, text extraction, heading detection in AI.
-- Web development: HTML, CSS, JavaScript, and Python backend.
-- Efficient teamwork, GitHub project management & Docker workflows.
-
----
-
-## Connect with Me
-
-- [Open an Issue](https://github.com/Srihesh/issues) to collaborate or discuss a project
-- Reach out at hackathons and on [GitHub](https://github.com/Srihesh)
-
----
-
-<p align="center"><i>Thanks for visiting my profile! Have fun exploring my repos — let's create something extraordinary together!</i></p>
+  <rect x="800" y="80" width="1" height="100" fill="#1a1a1a"/>
+  <rect x="840" y="95" width="1" height="70" fill="#1e1e1e"/>
+  <rect x="860" y="100" width="1" height="55" fill="#1a1a1a"/>
+</svg>
