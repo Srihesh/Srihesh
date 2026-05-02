@@ -1,5 +1,5 @@
 <!-- Banner (Add your own or use a site like https://readme-typing-svg.herokuapp.com/) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Srihesh!;IoT+Enthusiast;AI+Developer;Open+Source+Contributor&center=true&width=800&height=90" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Srihesh!;AI+Developer;Open+Source+Contributor&center=true&width=800&height=90" />
 
 <h1 align="center">👋 Hi, I'm Kothapalli Srihesh</h1>
 <p align="center">
