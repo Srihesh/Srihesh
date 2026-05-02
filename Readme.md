@@ -53,8 +53,9 @@
 <br />
 
 ### S T A T I S T I C S
-<img src="https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&hide_border=true&title_color=C8A84B&text_color=888&icon_color=C8A84B&bg_color=00000000&hide_rank=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh&layout=compact&hide_border=true&title_color=C8A84B&text_color=888&bg_color=00000000" width="45%" />
+<!-- Using the direct username "Srihesh" with high-contrast colors -->
+<img src="https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&hide_border=true&title_color=C8A84B&text_color=888&icon_color=C8A84B&bg_color=00000000&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh&layout=compact&hide_border=true&title_color=C8A84B&text_color=888&bg_color=00000000" width="350" />
 
 <br /><br />
 
