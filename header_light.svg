@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#ffffff"/>
+  <g stroke="#AB8823" fill="none" stroke-width="0.8" stroke-opacity="0.4">
+    <path d="M450,180 C600,0 850,100 880,180 S700,360 450,300 S20,260 20,180 S300,0 450,180" />
+    <path d="M450,180 C300,360 50,260 20,180 S200,0 450,60 S880,100 880,180 S600,360 450,180" />
+    <circle cx="450" cy="180" r="4" fill="#AB8823"/>
+  </g>
+  <text x="50%" y="170" text-anchor="middle" fill="#1a1a1a" font-family="Georgia, serif" font-size="72" font-weight="bold" letter-spacing="-3">K. Srihesh Kothapalli</text>
+  <text x="50%" y="210" text-anchor="middle" fill="#AB8823" font-family="monospace" font-size="12" letter-spacing="10">INTELLIGENCE ARCHITECT — SYSTEMS SYNTHESIZER</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#0a0a0a"/>
+  <defs>
+    <linearGradient id="vortex" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C8A84B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#444" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#vortex)" fill="none" stroke-width="0.6" stroke-opacity="0.5">
+    <path d="M450,180 C600,0 850,100 880,180 S700,360 450,300 S20,260 20,180 S300,0 450,180" />
+    <path d="M450,180 C300,360 50,260 20,180 S200,0 450,60 S880,100 880,180 S600,360 450,180" />
+    <circle cx="450" cy="180" r="4" fill="#C8A84B"/>
+    <circle cx="880" cy="180" r="2" fill="#C8A84B" opacity="0.6"/>
+    <circle cx="20" cy="180" r="2" fill="#C8A84B" opacity="0.6"/>
+  </g>
+  <text x="50%" y="170" text-anchor="middle" fill="#f0ede8" font-family="Georgia, serif" font-size="72" font-weight="bold" letter-spacing="-3">K. Srihesh Kothapalli</text>
+  <text x="50%" y="210" text-anchor="middle" fill="#C8A84B" font-family="monospace" font-size="12" letter-spacing="10">INTELLIGENCE ARCHITECT — SYSTEMS SYNTHESIZER</text>
+</svg>
