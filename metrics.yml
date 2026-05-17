@@ -19,7 +19,7 @@ jobs:
         with:
           filename: metrics.core.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Srihesh-Kothapalli
+          user: Srihesh
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
@@ -32,7 +32,7 @@ jobs:
         with:
           filename: metrics.langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Srihesh-Kothapalli
+          user: Srihesh
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
