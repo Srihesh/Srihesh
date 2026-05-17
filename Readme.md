@@ -54,8 +54,17 @@
 
 ### S T A T I S T I C S
 <!-- Using the direct username "Srihesh" with high-contrast colors -->
-<img src="https://github-readme-stats.vercel.app/api?username=Srihesh&show_icons=true&hide_border=true&title_color=C8A84B&text_color=888&icon_color=C8A84B&bg_color=00000000&count_private=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srihesh&layout=compact&hide_border=true&title_color=C8A84B&text_color=888&bg_color=00000000" width="350" />
+<!-- Generated nightly via GitHub Actions · lowlighter/metrics · zero third-party rate limits -->
+ 
+<img src="metrics.core.svg" width="100%" alt="Core stats" />
+<br />
+<img src="metrics.langs.svg" width="49%" alt="Language breakdown" />
+&nbsp;
+<img src="metrics.isocalendar.svg" width="49%" alt="Contribution calendar" />
+<br /><br />
+ 
+<img src="metrics.achievements.svg" width="100%" alt="Achievements" />
+<br />
 
 <br /><br />
 
