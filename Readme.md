@@ -53,17 +53,14 @@
 <br />
 
 ### S T A T I S T I C S
-<!-- Using the direct username "Srihesh" with high-contrast colors -->
-<!-- Generated nightly via GitHub Actions · lowlighter/metrics · zero third-party rate limits -->
- 
+
 <img src="metrics.core.svg" width="100%" alt="Core stats" />
+
 <br />
+
 <img src="metrics.langs.svg" width="49%" alt="Language breakdown" />
 &nbsp;
 <img src="metrics.isocalendar.svg" width="49%" alt="Contribution calendar" />
-<br /><br />
- 
-<img src="metrics.achievements.svg" width="100%" alt="Achievements" />
 <br />
 
 <br /><br />
